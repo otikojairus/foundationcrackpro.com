@@ -1,10 +1,10 @@
 services:
-  cleanliquidwaste:
+  foundationcrackpro:
     build:
       context: .
       dockerfile: Dockerfile
-    image: cleanliquidwaste:latest
-    container_name: cleanliquidwaste
+    image: foundationcrackpro:latest
+    container_name: foundationcrackpro
     restart: unless-stopped
     ports:
       - "${HOST_PORT:-3001}:3000"
