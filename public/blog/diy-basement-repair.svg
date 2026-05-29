@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f3f7f2"/>
+  <rect x="150" y="110" width="900" height="410" rx="28" fill="#fff" stroke="#d7dfd4"/>
+  <path d="M320 430 L520 230 L620 320 L800 190" fill="none" stroke="#1f7a4f" stroke-width="14"/>
+  <circle cx="620" cy="320" r="18" fill="#ff6a3d"/>
+  <text x="190" y="565" fill="#17341f" font-size="42" font-family="Arial" font-weight="700">Why DIY Basement Patches Fail</text>
+</svg>

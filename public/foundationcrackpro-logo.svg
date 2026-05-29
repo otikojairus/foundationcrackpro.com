@@ -1,0 +1,13 @@
+<svg width="420" height="90" viewBox="0 0 420 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="7" width="74" height="74" rx="16" fill="url(#g)"/>
+  <path d="M21 54L42 24L63 54H53L42 39L31 54H21Z" fill="white"/>
+  <path d="M28 63H56" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <text x="95" y="40" fill="#103B29" font-family="Sora, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1.2">FOUNDATION</text>
+  <text x="95" y="67" fill="#2A7B55" font-family="DM Sans, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="2">CRACK PRO</text>
+  <defs>
+    <linearGradient id="g" x1="4" y1="7" x2="78" y2="81" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A8F60"/>
+      <stop offset="1" stop-color="#145236"/>
+    </linearGradient>
+  </defs>
+</svg>
