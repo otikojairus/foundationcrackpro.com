@@ -1,7 +1,7 @@
 export const SITE_NAME = "Foundation Crack Pro";
 export const DEFAULT_SITE_URL = "https://foundationcrackpro.com";
-export const EMERGENCY_PHONE_DISPLAY = "1-888-689-6881";
-export const EMERGENCY_PHONE_E164 = "+18886896881";
+export const EMERGENCY_PHONE_DISPLAY = "1-888-896-5840";
+export const EMERGENCY_PHONE_E164 = "+18888965840";
 
 function normalizeSiteUrl(value?: string) {
   if (!value) return null;
